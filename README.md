@@ -1,4 +1,4 @@
-Bike Sharing Demand Prediction
+# Bike Sharing Demand Prediction
 Abstract
 As a convenient, economical, and ecofriendly travel mode, bike-sharing greatly improved urban mobility. However, it is often very difficult to achieve a balanced utilization of shared bikes due to the asymmetric user demand distribution and the insufficient numbers of shared bikes, docks, or parking areas. If we can predict the short-run bike-sharing demand, it will help operating agencies rebalance bike-sharing systems in a timely and efficient way.
 
